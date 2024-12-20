@@ -64,7 +64,7 @@ Screenshots
 
 ![Screenshot](imgs/Screenshot%202024-12-19%20at%2010.29.29%E2%80%AFPM.png)
 
-![Screenshot](imgs/Screenshot%202024-12-19%20at%2010.29.29%E2%80%AFPM.png)
+![Screenshot](imgs/Screenshot%202024-12-19%20at%2010.41.07%E2%80%AFPM.png)
 
 
 Use Cases
